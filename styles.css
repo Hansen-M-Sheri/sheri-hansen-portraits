@@ -563,3 +563,12 @@ textarea {
     transform: none;
   }
 }
+/* ======================================
+     Thank you Page
+  ====================================== */
+.thank-you-image {
+  max-width: 250px;
+  width: 100%;
+  margin-bottom: 2rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}

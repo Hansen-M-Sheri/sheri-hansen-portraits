@@ -212,6 +212,8 @@ h3 {
 .about img {
   aspect-ratio: 4 / 5;
   object-fit: cover;
+
+  width: 300px;
 }
 
 /* ======================================

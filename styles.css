@@ -289,6 +289,19 @@ h3 {
 }
 
 /* Framed Artwork */
+.framing-option {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid #ddd8cd;
+}
+
+.framing-option p {
+  margin: 0.35rem 0;
+}
+
+.framing-option strong {
+  color: #3b3731;
+}
 .art-frame:hover {
   transform: translateY(-6px) scale(1.02);
 }
